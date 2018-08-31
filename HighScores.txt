@@ -1,0 +1,13 @@
+0 Player
+1 Player
+10 Player
+10 Player
+100 Player
+100 Player
+1000 Player
+1000 Player
+10000 Player
+10000 Player
+100000 Player
+100000 Player
+23 Kain
